@@ -1,0 +1,42 @@
+div{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+    flex-wrap: wrap;
+}
+img{
+    height: 110%;
+    width: 40%;
+    float: left;
+    position: relative;
+    bottom: 10%;
+}
+#prince{
+    background: linear-gradient(to bottom, #0088f7 0%,#c700ff 100%);
+    width: 46%;
+    height: 250px;
+    position: flex;
+    text-align: right;
+}
+#mario{
+    background: linear-gradient(to bottom, #ff0004 0%,#b70003 100%);
+    width: 46%;
+    height: 250px;
+    position: flex;
+    text-align: right;
+}
+#widow{
+    background: linear-gradient(to right, #000000 0%,#52006b 100%);
+    width: 46%;
+    height: 250px;
+    position: flex;
+    text-align: right;
+}
+#spider{
+    background: linear-gradient(to bottom, #ff0004 0%,#630001 100%);
+    width: 46%;
+    height: 250px;
+    position: flex;
+    text-align: right;
+}
